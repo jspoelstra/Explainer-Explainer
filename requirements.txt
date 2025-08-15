@@ -1,0 +1,12 @@
+# Coding
+black==24.*
+
+# Notebooks
+ipykernel
+ipython
+matplotlib
+notebook
+
+# Math
+numpy
+pandas
